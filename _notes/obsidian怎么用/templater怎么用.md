@@ -1,0 +1,3 @@
+在这中间看到了[github page](https://blog.csdn.net/jdbdh/article/details/84978068) 的使用方法,简单学习了一下之后,发现还是不太适用于obsidian笔记的发布,有点无奈...
+
+[templater的官方文档,仔细看看就能看懂了](https://silentvoid13.github.io/Templater/docs/)
