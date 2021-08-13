@@ -1,1 +1,0 @@
-[一个挺有意思的插件,像VIM一样操作chrome](https://blog.csdn.net/hunter___/article/details/82143444)
