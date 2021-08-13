@@ -17,3 +17,4 @@ title: "index"
 
 [[obsidiangit插件的使用.]]
 
+![imgur图片测试](https://i.imgur.com/ytqUQcO.png)
