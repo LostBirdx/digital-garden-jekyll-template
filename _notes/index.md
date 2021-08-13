@@ -2,7 +2,7 @@
 title: "Index页"
 ---
 
-# 🌱 A lostbird's digital garden
+# 🌱 Welcome to my digital garden
 ## 技术文章 🧑‍💻
 [[git的基本概念和初始配置]]
 
