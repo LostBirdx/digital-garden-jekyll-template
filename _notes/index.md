@@ -1,5 +1,5 @@
 ---
-title: "目录页"
+title: "Index页"
 ---
 
 # 🌱 A lostbird's digital garden
