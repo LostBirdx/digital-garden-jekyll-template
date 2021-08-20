@@ -1,4 +1,5 @@
 ---
+layout: note
 title: "git的基本概念和初始配置"
 ---
 
@@ -46,7 +47,7 @@ cat id_rsa.pub  # 把这个里面的内容复制
 
   用ssh链接git：ssh -T git@github.com
   ```
-  
+
 
 
 
