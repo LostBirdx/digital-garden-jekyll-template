@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+<body>
+  <script language="JavaScript">
+    while (true) {
+        var password = "";
+        password = prompt('请输入密码 (本网站需输入密码才可进入):', '');
+        if (password != '0502') {
+            alert("密码不正确,无法进入本站!!");
+        } else {
+            break;
+        }
+    }
+</script>
+    <nav>{% include nav.html %}</nav>
+    <div class="wrapper">
+        <main>{{ content }}</main>
+        <footer>{% include footer.html %}</footer>
+    </div>
+
+    {% include link-previews.html wrapperQuerySelector="content" %}
+    <section>
+        {%- if site.show_notes_graph -%}
+        <p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>{% include notes_graph.html %}{%- endif -%}</section>
+</body>
+
+</html>

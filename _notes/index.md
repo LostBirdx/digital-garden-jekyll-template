@@ -1,5 +1,6 @@
 ---
 title: "迷失之羽"
+layout: index
 ---
 
 # 🌱 Welcome to my digital garden
